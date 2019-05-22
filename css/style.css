@@ -15,7 +15,7 @@ p {
 	 font-size: 14px;
 	 margin: 20px;
 	 border-style: solid;
-    border-width: 3px;
+    border-width: 1px;
 	border-color: black;
 	position: absolute;
 	padding-top: 30px;
@@ -28,10 +28,10 @@ div {
      width: 70px;
 	 height :30px;
 	 font-family: Ariel, Halvetica, sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	 font-weight: bold;
 	 border-style: solid;
-    border-width: 3px;
+    border-width: 1px;
 	border-color: black;
 	position: absolute;
 	text-align: center;
